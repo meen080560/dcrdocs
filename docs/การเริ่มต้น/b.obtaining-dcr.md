@@ -36,7 +36,7 @@ Note: If you need help obtaining Bitcoin to get started, the process is well doc
 * [Bisq](https://markets.bisq.network/?market=dcr_btc)
 
 
-### Instant Exchanges
+### Instant Exchanges.
 
 Instant exchanges allow users to convert from one cryptocurrency to another without the need for registration. Do note that higher fees usually apply, i.e., the price will include a fee for the convenience. You should compare prices among all the exchanges below.
 
@@ -90,4 +90,4 @@ Decred is currently recruiting contractors - members of the community who are pa
 
 ## <img class="dcr-icon" src="/img/dcr-icons/SellGoods.svg" /> Sell / Trade Goods or Services for Decred
 
-An alternative way to obtain Decred is to use your skills, knowledge, or experience by exchanging services for Decred as payment.  Services can be anything that you are skilled at which are in need or requested by other members of the Decred community.
+An alternative way to obtain Decred is to use your skills, knowledge, or experience by exchanging services for Decred as payment.  Services can be anything that you are skilled at which are in need or requested by other members of the Decred community
